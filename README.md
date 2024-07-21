@@ -12,5 +12,5 @@ The Solana PnL Bot is a tool designed to track and analyze the profit and loss (
 - **ROI Calculation**: Determines the return on investment.
 - **Win Rate Calculation**: Computes the win rate based on profitable transactions versus total transactions.
 
-## COST PLUS INSTALLATION AND SET UP IS  1 SOL TILL THE END OF JUNE AND IT GOES BACK TO 10 SOL
+## COST PLUS INSTALLATION AND SET UP IS  1 SOL TILL THE END OF JUlY AND IT GOES BACK TO 10 SOL
 #MESSAGE  ME ON TELEGRAM FOR  SAMPLE TESTING AND PURCHASE @Humancybborg
